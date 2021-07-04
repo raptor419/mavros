@@ -3,7 +3,7 @@ MAVROS
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/mavros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-MAVLink extendable communication node for ROS.
+MAVLink extendable communication node for ROS. Test
 
 - Since 2014-08-11 this repository contains several packages.
 - Since 2014-11-02 hydro support separated from master to hydro-devel branch.
